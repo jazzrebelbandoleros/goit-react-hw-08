@@ -1,0 +1,17 @@
+.AuthNav {
+  margin-right: 50px;
+  display: inline-block;
+}
+
+.link {
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: rgb(193, 189, 189);
+  font-weight: 600;
+}
+
+.active {
+  color: #e6e6fa;
+  background-color: #9400d3;
+}

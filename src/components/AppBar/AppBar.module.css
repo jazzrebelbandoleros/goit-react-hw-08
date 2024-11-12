@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #9400d3;
+  position: fixed;
+  height: 60px;
+  top: 0;
+  left: 0px;
+  width: 100%;
+  padding: 25px 15px 25px;
+  z-index: 6;
+  box-shadow: 0 4px 8px rgb(193, 189, 189);
+  color: #e6e6fa;
+  background-color: rgb(255, 228, 196);
+  box-shadow: 10px 5px 5px #9400d3;
+}

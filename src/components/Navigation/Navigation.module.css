@@ -1,0 +1,20 @@
+.header {
+  display: inline-block;
+}
+
+.nav {
+  display: flex;
+}
+
+.link {
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+.active {
+  color: #e6e6fa;
+  background-color: #9400d3;
+}
